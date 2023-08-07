@@ -1,0 +1,849 @@
+{
+  "Files": [
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\com.portfolio.website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\com.portfolio.website.bundle.scp.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\uploads\\photo_2023-06-16_21-01-18.jpg",
+      "PackagePath": "staticwebassets\\uploads\\photo_2023-06-16_21-01-18.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\css\\johndoe.css",
+      "PackagePath": "staticwebassets\\website\\css\\johndoe.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\advertising-1.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\advertising-1.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\advertising-2.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\advertising-2.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\advertising-3.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\advertising-3.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\advertising-4.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\advertising-4.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\avatar.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\avatar.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\blog1.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\blog1.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\blog2.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\blog2.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\blog3.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\blog3.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\branding-1.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\branding-1.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\branding-2.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\branding-2.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\branding-3.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\branding-3.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\branding-4.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\branding-4.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\branding-5.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\branding-5.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\header.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\web-1.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\web-1.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\web-2.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\web-2.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\web-3.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\web-3.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\imgs\\web-4.jpg",
+      "PackagePath": "staticwebassets\\website\\imgs\\web-4.jpg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\js\\johndoe.js",
+      "PackagePath": "staticwebassets\\website\\js\\johndoe.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\abstracts\\mixins\\_shadow.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\abstracts\\mixins\\_shadow.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_button.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_code.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_code.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_dropdowns.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_nav.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_navbars.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\johndoe.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\johndoe.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\website\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\website\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\website\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\website\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\website\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\website\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "W:\\ASP.NET .Core Learning\\com.portfolio.website\\wwwroot\\website\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\website\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.com.portfolio.website.props",
+      "PackagePath": "build\\com.portfolio.website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.com.portfolio.website.props",
+      "PackagePath": "buildMultiTargeting\\com.portfolio.website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.com.portfolio.website.props",
+      "PackagePath": "buildTransitive\\com.portfolio.website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.com.portfolio.website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
